@@ -1,0 +1,10 @@
+{
+    "name": "DA Power Play Token",
+    "symbol": "DPP",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "meme token.",
+    "website":"https://etherscan.io/token/0xb1a03001974d883b3c8709b6dc4db712b82e0b43",
+    "status": "active",
+    "id": "0xb1a03001974d883b3c8709b6dc4db712b82e0b43"
+}
